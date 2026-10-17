@@ -215,3 +215,11 @@ See [`docs/UseCaseDiagram.png`](docs/UseCaseDiagram.png).
 - `lib/ojdbc17.jar` (Oracle) is bundled but the app uses SQLite only.
 - `DatabaseInitializer` references `schema.sql` while the schema file is `clubapp.sql`.
 - No automated tests and no build file (dependencies are vendored in `lib/`).
+
+---
+
+## License
+
+Released under the [MIT License](LICENSE).
+
+Copyright (c) 2026 Mohamed Aziz Madhbouh.
